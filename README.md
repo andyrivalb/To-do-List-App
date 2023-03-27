@@ -3,7 +3,5 @@ This to-do app is a simple yet useful application built using Python and Tkinter
 
 The GUI window contains a title, two labels, a list box, a text box for input, and two buttons for adding and deleting tasks. The user can enter a task in the text box and add it to the list by clicking the "Add" button. The added task is also saved to the "data.txt" file. The user can select a task from the list and delete it by clicking the "Delete" button, which also updates the "data.txt" file.
 
-This app is a great project for beginners to learn about GUI programming and file handling in Python. It can also be extended and customized with additional features, such as reminders or due dates, to make it more functional. This app can be added to your Github and portfolio to showcase your programming skills and demonstrate your understanding of Python and Tkinter.
-
 If you want to run this program. All you need just copy the code and create data.txt in your folder or just run this file into your favorite IDE.
 (don't forget the data.txt file)
